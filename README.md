@@ -25,12 +25,9 @@ pictures of the app:
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/ab3f570d-e9df-4ed5-9c92-df1f189a526d" width="256"/>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/4cfb90e8-4167-4d5a-ad81-b36208351605" width="256"/>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/00ddd506-5a20-4df3-8b57-305aed03ee61" width="256"/>
-<br>
-<br>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/deca8cf2-1998-4da3-83c7-ab1ced67d58b" width="256"/>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/8bceae66-deb5-4887-a092-e55b3f596dd7" width="256"/>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/bfd5a1a3-6477-4ad8-a406-3ae6100d1a29" width="256"/>
-<br>
 <img src="https://github.com/AlTheMan/CalendarAssistant/assets/103257111/871f2edc-a360-47ee-8c02-9f61a43590f5" width="256"/>
 <br>
 <br>
